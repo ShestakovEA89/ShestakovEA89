@@ -1,16 +1,34 @@
-## Hi there 👋
+# Евгений Шестаков
 
-<!--
-**ShestakovEA89/ShestakovEA89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инженер-строитель, который пишет софт для строителей.
 
-Here are some ideas to get you started:
+12 лет в строительной компании, из них последние годы — начальник
+производственно-технического отдела (ПТО). Исполнительную документацию
+знаю изнутри: акты скрытых работ, реестры, журналы, сдача объекта
+заказчику. Сейчас делаю инструменты на LLM, которые снимают с инженеров
+ПТО бумажную рутину.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Чем занимаюсь
+
+**[Помощник инженера ПТО](https://github.com/ShestakovEA89/llm-learning)** —
+веб-приложение для ведения исполнительной документации на объекте:
+
+- акты скрытых работ и комиссионные акты с генерацией .docx по шаблону
+- реестры исполнительной документации с AI-разбором сырого текста
+- журнал производства работ и трекер запросов к заказчику и поставщикам
+- RAG-чат по нормативным документам (СП, ГОСТы) со ссылками на источники
+
+## Стек
+
+Python · Streamlit · PostgreSQL (Supabase, pgvector) · Claude API ·
+LlamaIndex · pytest
+
+## Связаться
+
+Открыт к проектам по автоматизации документооборота в строительстве и
+внедрению LLM в рабочие процессы.
+
+- Email: ShestakovEA@gmail.com
+- Telegram: [@ShestakovEA](https://t.me/ShestakovEA)
+
+📍 Пермь
